@@ -1,6 +1,8 @@
 # evochain
 
-![Evochain network](./assets/bc_network.png)
+<p align="center">
+  <img src="./assets/bc_network.png" alt="Evochain network" style="display: block; margin: 0 auto;" />
+</p>
 
 ## Run a node
 
