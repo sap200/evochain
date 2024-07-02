@@ -1,4 +1,6 @@
 #!/bin/bash
+# go back
+cd ../
 
 # remove the file
 rm -rf 5000

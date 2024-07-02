@@ -11,7 +11,7 @@ const (
 	CURRENCY_NAME             = "evo"
 	DECIMAL                   = 100
 	BLOCKCHAIN_ADDRESS        = "Evochain_Faucet"
-	BLOCKCHAIN_DB_PATH        = "5003/evodb"
+	BLOCKCHAIN_DB_PATH        = "5000/evodb"
 	BLOCKCHAIN_KEY            = "blockchain_key"
 	ADDRESS_PREFIX            = "evochain"
 	TXN_VERIFICATION_SUCCESS  = "verification_success"
