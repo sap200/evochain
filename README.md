@@ -1,5 +1,7 @@
 # evochain
 
+![Evochain network](./assets/bc_network.png)
+
 ## Run a node
 
 ```bash
